@@ -19,11 +19,11 @@ I would consider this page a work in progress because as I learn more skills, I 
 
 The following images display the finished product:
 
-<img width="1889" alt="Screen Shot 2022-09-09 at 8 58 44 PM" src="https://user-images.githubusercontent.com/112007722/189465176-9af69723-e995-4738-9710-4dc16c88a3e3.png">
+<img width="1561" alt="portfolio1" src="https://user-images.githubusercontent.com/112007722/190208664-ba5a1535-357f-4924-9e77-63a52b1fe32b.png">
 
-<img width="1876" alt="Screen Shot 2022-09-09 at 8 59 56 PM" src="https://user-images.githubusercontent.com/112007722/189465253-4f1863ca-6819-4f30-af15-f190a68fa8cd.png">
+<img width="1557" alt="portfolio3" src="https://user-images.githubusercontent.com/112007722/190208998-44a3cc1c-0fc3-42c0-aaa0-e25a31b89524.png">
 
-<img width="1879" alt="Screen Shot 2022-09-09 at 8 59 21 PM" src="https://user-images.githubusercontent.com/112007722/189465263-84d3d618-b4a8-40d7-b3bd-1bc0477140e8.png">
+<img width="1559" alt="portfolio2" src="https://user-images.githubusercontent.com/112007722/190209149-3ed5853b-7dc9-45c5-b19b-1563b23ded7d.png">
 
 ## Live Website:
 

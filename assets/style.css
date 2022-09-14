@@ -2,6 +2,10 @@
     box-sizing: border-box;
   }
 
+  /* 
+      Add colors that make the site look more professional
+  */
+
   body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0;
@@ -19,48 +23,48 @@
     justify-content: space-between;
     padding: 50px;
     padding-top: 70px;
-    background: rgb(204, 14, 14);
-    color: rgb(16, 3, 3)
+    background: #000000;
+    color: #1d11a4;
   }
 
   header {
     padding: 50px;
     text-align: center;
     flex-wrap: wrap;
-    background: #149f32;
-    color: rgb(162, 49, 128);
+    background: #1d11a4;
+    color: rgb(0, 0, 0);
   }
 
   h4 {
     padding: 50px;
     text-align: center;
-    background: #149f32;
-    color: rgb(162, 49, 128);
+    background: #1d11a4;
+    color: rgb(0, 0, 0);
   }
 
   h3 {
     padding: 50px;
     text-align: center;
-    background: #149f32;
-    color: rgb(162, 49, 128);
+    background: #1d11a4;
+    color: rgb(0, 0, 0);
   }
 
   h2 {
     padding: 50px;
     text-align: center;
-    background: #149f32;
-    color: rgb(162, 49, 128);
+    background: #1d11a4;
+    color: rgb(0, 0, 0);
   }
   
   nav {
     display: flex;
-    background-color: #d3a717;
+    background-color: #1d11a4;
   }
 
   nav a {
     color: #000000;
     padding: 15px 15px;
-    text-decoration:rgb(16, 3, 3);
+    text-decoration:rgb(70, 60, 60);
   }
 
   .navbar {
@@ -71,7 +75,7 @@
 
   section {
     flex: 3;
-    background-color: rgb(231, 217, 34);
+    background-color: rgb(0, 0, 0);
     padding: 20px;
   }
   
@@ -94,7 +98,7 @@
   p {
     padding: 15px;
     text-align: center;
-    color: #c61818;
+    color: #1d11a4;
   }
 
 @media screen and (min-width: 1000px){

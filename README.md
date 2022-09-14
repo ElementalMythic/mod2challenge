@@ -17,7 +17,7 @@ I would consider this page a work in progress because as I learn more skills, I 
 
 ## Design:
 
-The following images display the finished product:
+The following images display parts of the finished product for your reference:
 
 <img width="1561" alt="portfolio1" src="https://user-images.githubusercontent.com/112007722/190208664-ba5a1535-357f-4924-9e77-63a52b1fe32b.png">
 

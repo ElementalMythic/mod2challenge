@@ -9,19 +9,41 @@
 
   main {
     display: flex;
-    flex-wrap: wrap;
-    margin-top: 5%;
+    flex-direction: column;
+    margin-top: 0%;
   }
 
   .main-header {
     display: flex;
     justify-content: space-between;
     padding: 50px;
+    padding-top: 70px;
     background: rgb(204, 14, 14);
     color: rgb(16, 3, 3)
   }
 
   header {
+    padding: 50px;
+    text-align: center;
+    background: #149f32;
+    color: rgb(162, 49, 128);
+  }
+
+  h4 {
+    padding: 50px;
+    text-align: center;
+    background: #149f32;
+    color: rgb(162, 49, 128);
+  }
+
+  h3 {
+    padding: 50px;
+    text-align: center;
+    background: #149f32;
+    color: rgb(162, 49, 128);
+  }
+
+  h2 {
     padding: 50px;
     text-align: center;
     background: #149f32;
@@ -34,10 +56,15 @@
   }
 
   nav a {
-    color: #d5e8e5;
+    color: #000000;
     padding: 15px 15px;
-    text-decoration: none;
-    text-align: center;
+    text-decoration:rgb(16, 3, 3);
+  }
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
   }
 
   section {
@@ -48,19 +75,29 @@
   
   .project {
     flex: 1 0 200px;
-    padding: 15px;
+    padding: 30px;
     text-align: center;
     border-style: solid;
     border-width: 1px;
   }
 
-  .project.one {
-    flex: 2 1 200px;
+  .projectone {
+    flex: 2 2 300px;
+    padding: 30px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
   }
 
-@media screen {
-    main,
-    section {
-        flex-direction: column;
+@media screen and (min-width: 1000px){
+    .main {
+        width: 50%
     }
 }
+
+@media screen and (max-width: 750px){
+    .main {
+        width: 100%
+}
+}
+

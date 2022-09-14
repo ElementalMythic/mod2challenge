@@ -101,13 +101,23 @@
     color: #1d11a4;
   }
 
-@media screen and (min-width: 1000px){
+  img {
+    margin:10px
+  }
+
+  #pic1:hover {
+    padding:0px;
+    margin: 10px;
+    box-shadow: 0 0 20px rgb(230, 247, 37);
+  }
+
+@media screen and (min-width: 992px){
     .main {
         width: 50%
     }
 }
 
-@media screen and (max-width: 750px){
+@media screen and (max-width: 768px){
     .main {
         width: 100%
 }
